@@ -46,7 +46,7 @@
 </div>
 <div align=center>
 	<a href="https://velog.io/@jisub3054">
-		<img src="https://img.shields.io/badge/Velog-00FF00?style=flat&logo=Micro.blog&logoColor=white" />
+		<img src="https://img.shields.io/badge/Velog-007500?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<br>
 </div>
